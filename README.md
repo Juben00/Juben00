@@ -66,9 +66,3 @@ I turn ideas into scalable products, contribute to open source, and continuously
 ![](https://github-readme-stats.vercel.app/api?username=Juben00&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Juben00&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juben00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Juben00&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Juben00&icon=5&color=12)](https://visitcount.itsvg.in)
